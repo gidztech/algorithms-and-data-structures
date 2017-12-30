@@ -61,3 +61,6 @@ function binarySearch (list, item) {
 let list = [1, 2, 3, 4, 5, 6, 7, 8];
 binarySearch(list, 9);
 ```
+
+`O(log n)` - The log being the inverse of exponentials, e.g. 32 items would be log2(32) === 5, meaning it would take a maximum of 5 iterations (worst case) to find a value.
+
