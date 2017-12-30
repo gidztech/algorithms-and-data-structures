@@ -11,7 +11,6 @@ A binary search tree stores the smaller values in the nodes on the left and the 
 
 ![Binary search tree](https://i.imgur.com/Bn6hHNI.png)
 
-https://mgechev.github.io/javascript-algorithms/data-structures_binary-search-tree.js.html
 If the tree is unbalanced, then the performance can degrade to the same as a LinkedList, `O(n)`. The implementation should keep the tree
 balanced, which will typically produce `O(log n)` for search, insert and delete operations.
 
