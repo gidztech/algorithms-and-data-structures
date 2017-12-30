@@ -1,6 +1,6 @@
 # Search
 
-## Stupid Search
+## Simple Search
 This is simplest of searches for a sorted list. Loop through the list, and on every iteration, check if the current item 
 is the item we are looking for. If it is, return the index, otherwise continue. Return `null` if nothing is found by the end.
 
